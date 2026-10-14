@@ -76,3 +76,10 @@ Desktop.ini
 *.workspace # General workspace files, can be from various tools
 *.suo       # Visual Studio Solution User Options
 *.sln.docstates # Visual Studio
+
+
+# Local VS Code settings for ESP-IDF projects
+gateway/.vscode/settings.json
+gateway/.vscode/launch.json
+industrial_device_simulator/.vscode/settings.json
+industrial_device_simulator/.vscode/launch.json
